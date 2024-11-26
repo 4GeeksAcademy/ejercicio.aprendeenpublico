@@ -1,0 +1,95 @@
+
+
+template: "online-cv"
+skin: "pink"
+avatar: https://randomuser.me/api/portraits/women/24.jpg
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Anabel
+    last_name: Vivas Mata
+    
+    # Define yourself in 4-5 words
+    motto: En proceso de Full Stack Developer .
+    
+    # Focus
+    focus: Principalmente cuidar de todos sin olvidarme de mi.
+    
+   avatar: https://randomuser.me/api/portraits/women/24.jpg
+
+    # Contact Information
+    email: anabelvivasm@gmail.com 
+    phone: 622032103 
+    website: asd.com 
+    linkedin: anavivas91 
+    
+   
+    github: anabelvm91
+    
+    twitter: 'anavivasm'
+    stack-overflow: 
+
+    # Languages you speak, levels include: Native, Professional
+    languages:
+      - idiom: Español
+        level: Nativo
+
+      - idiom: Ingles
+        level: Medio-alto
+
+      
+
+    # Interests or hobbies
+    interests:
+      - item: Pintar
+
+      - item: Leer
+
+      - item: Cocinar (reposteria)
+
+# Your previous education
+education:
+    - degree: Titulo Educacion secundaria obligatoria
+      university: Instituto I.E.S Fuentepiña (Huelva)
+      # optional
+     
+      time: 2004 - 2008
+      details: |
+        Titulo ESO
+
+    - degree: Grado Superior en proyecto de obra y decoracion interiores
+      university: Academia de arte Leon ortega
+      # optional
+     
+      time: 2009 - 2012
+      details: |
+        Grado que te desempeña para crear espacios decorativos , proyectos de obra etc
+# Your previous job experiences or volunteer
+experiences:
+    - role: Proyectista
+      time: 2015-2017
+      company: Barcelona
+      
+      
+      Me encargaba de supervisar proyectos para diferentes negocios 
+      
+      summary: |
+      Después de varios años trabajando en el sector artistico apuntarme a un Bootcamp en modalidad Fulltime de Desarrollador Web Full-Stak en 4Geeks Academy España ya que la programación siempre ha sido un campo que me ha llamado la atención y en donde siempre he querido trabajar.
+
+      Actualmente me encuentro estudiando HTML, CSS, Bootstrap y Javascript.
+
+    skills:
+    toolset:
+      - name: Python 
+        level: 30%
+
+      - name: Javascript
+        level: 60%
+
+      - name: HTML5 & CSS
+        level: 50%
+
+      - name: Bootstrap
+        level: 70%
+    
